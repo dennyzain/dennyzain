@@ -1,5 +1,6 @@
 Hi there, I'm **Denny Abbas Zain**, a **Web Developer** 
-- 👀 Programming adn Tech Entusiast
+- 👀 Programming and Tech Entusiast
+- 🤔 I’m interested with Processing/Understanding, Critical Thinking,etc
 - 🌱 I’m currently learning Typescript and Backend Environtment
 - 📫 Contact me via social media or gmail
 
