@@ -5,3 +5,6 @@
 - 📫 How to reach me ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennyabbaszain&layout=compact)](https://github.com/dennyabbaszain/github-readme-stats)
+
+<br>
+![Denny's github stats](https://github-readme-stats.vercel.app/api?username=dennyabbaszain&show_icons=true&hide_border=true&theme=tokyonight)
