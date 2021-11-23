@@ -1,4 +1,4 @@
-Hi there, I'm **Denny Abbas Zain**, a **Web Developer** 
+Hi there, I'm **Denny Abbas Zain**, a **Web Developer**;
 - 👀 Programming and Tech Entusiast;
 - 🤔 I’m interested with Processing/Understanding, Critical Thinking,etc;
 - 🌱 I’m currently learning Typescript and Backend Environtment;
