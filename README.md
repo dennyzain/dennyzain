@@ -1,12 +1,11 @@
+<img align="right" alt="GIF" src="https://github.com/dennyzain/dennyzain/blob/master/assets/02memes.gif?raw=true" width="290" height="290" />
 
 Hi there, I'm **Denny Abbas Zain**, an **Web Developer**;
 - 👀 Programming and Tech Entusiast;
 - 🤔 I’m interested with Processing/Understanding, Critical Thinking,etc;
 - 🌱 I’m currently learning Typescript and Backend Environtment;
-- 🌱 Fun facts: i like memes and shitposts
+- :clown_face: Fun facts: i like memes and shitposts
 - 📫 Contact me via social media or gmail to reach me;
-
-<img align="right" alt="GIF" src="https://github.com/dennyzain/dennyzain/blob/master/assets/02memes.gif?raw=true" width="290" height="290" />
 
 <br>
 
