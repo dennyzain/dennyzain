@@ -8,6 +8,8 @@ Hi there, I'm **Denny Abbas Zain**, a **Web Developer**;
 
 <hr>
 
+  <img align="right" alt="GIF" src="https://github.com/dennyzain/dennyzain/blob/master/assets/02memes.gif?raw=true" width="500" height="320" />
+
 [![InstagramBadge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abbas_dznx/)
 [![LinkedinBadge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denny-abbas-zain-567552194/)
 [![GmailBadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasdenny24@gmail.com)
