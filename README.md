@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/dennyzain/dennyzain/blob/master/assets/01.gif?raw=true" width="290" height="200" />
+<img align="right" alt="GIF" src="https://github.com/dennyzain/dennyzain/blob/master/assets/01.gif?raw=true" width="490" height="200" />
 
 Hi there, I'm **Denny Abbas Zain**, an **Web Developer**;
 - 👀 Programming and Tech Entusiast;
