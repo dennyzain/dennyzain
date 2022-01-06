@@ -15,4 +15,4 @@ Hi there, I'm **Denny Abbas Zain**, an **Web Developer**;
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennyzain&layout=compact)](https://github.com/dennyzain/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennyzain&layout=compact)](https://github.com/dennyzain/github-readme-stats) 
