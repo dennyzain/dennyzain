@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/dennyzain/dennyzain/blob/master/assets/02memes.gif?raw=true" width="400" height="300" />
+
 
 Hi there, I'm **Denny Abbas Zain**
 - 👀 Programming and Tech Entusiast;
