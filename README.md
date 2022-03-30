@@ -12,6 +12,6 @@ Hi there, I'm **Denny Abbas Zain**
 [![LinkedinBadge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denny-abbas-zain-567552194/)
 [![GmailBadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasdenny24@gmail.com)
 
-<br>
-
+<div align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennyzain&layout=compact)](https://github.com/dennyzain/github-readme-stats) 
+</div>
