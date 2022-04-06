@@ -5,7 +5,7 @@
 </a>
 
 - 👀 Programming and Tech Entusiast;
-- :seedling: I'm learning currently node
+- :seedling: I'm currently learning nodejs
 - 🤔 I’m interested with Javascript environtment
 - :clown_face: Fun facts: i like memes and shitposts
 - 📫 Contact me via social media or gmail to reach me;
