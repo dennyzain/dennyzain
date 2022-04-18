@@ -4,9 +4,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennyzain&layout=compact" />
 </a>
 
-- 👀 Programming and Tech Entusiast;
+- 👀 Programming and Tech Enthusiast;
 - :seedling: I'm currently learning nodejs
-- 🤔 I’m interested with Javascript environtment
+- 🤔 I’m interested with Javascript environment
 - :clown_face: Fun facts: i like memes and shitposts
 - 📫 Contact me via social media or gmail to reach me;
 
