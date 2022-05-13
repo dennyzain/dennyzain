@@ -10,7 +10,7 @@
 - :clown_face: Fun facts: i like memes and shitposts
 - 📫 Contact me via social media or gmail to reach me;
 
-## Contact
+## Contact and Social Media
 
 [![InstagramBadge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abbas_dznx/)
 [![LinkedinBadge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denny-abbas-zain-567552194/)
