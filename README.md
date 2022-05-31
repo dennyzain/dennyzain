@@ -5,7 +5,7 @@
 </a>
 
 - 👀 Programming and Tech Enthusiast;
-- :seedling: I'm currently learning nodejs, react-native, writing and speaking;
+- :seedling: I'm currently learning nodejs, react-ecosystem, english language, writing and speaking;
 - 🤔 I’m interested with Javascript environment;
 - :clown_face: Fun facts: i like memes and shitposts;
 - 📫 Contact me via social media or gmail to reach me;
