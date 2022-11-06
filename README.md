@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denny Abbas Zain</h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennyzain&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennyzain&layout=compact" />
 </a>
 
 - 👀 Programming and Tech Enthusiast;
