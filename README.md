@@ -5,7 +5,7 @@
 - :seedling: I'm currently learning how to code, writing and speaking;
 - 🤔 I’m interested in Javascript environment;
 - :clown_face: I like memes and shitposts;
-- 📫 Contact me via social media [@dennyzain](https://linktr.ee/dennyzain)
+- 📫 Contact me via social media [@dennyzain](https://bento.me/dennyzain)
 
 <!-- ## Contact and Social Media
 
