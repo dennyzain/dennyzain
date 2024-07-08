@@ -1,8 +1,7 @@
 ### Hi 👋, I'm Denny Abbas Zain
 
 - 👨‍💻 Working as Web Developer;
-- 👀 Programming and Tech Enthusiast;
-- :seedling: I'm currently learning how to code, writing and speaking;
+- :seedling: I'm currently learning how to code, write, speak and teach;
 - 🤔 I’m interested in Javascript environment;
 - :clown_face: I like memes and shitposts;
 - 📫 Contact me via social media [@dennyzain](https://bento.me/dennyzain)
