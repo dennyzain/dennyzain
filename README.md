@@ -22,4 +22,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Setup and Install PostgreSQL using Docker](https://medium.com/@abbasdenny/setup-and-install-postgresql-using-docker-3cf9196765b3?source=rss-dae29be4bcaa------2)
+- [Perbedaan Diffused Thinking dan Focused Thinking: Menemukan Keseimbangan Kreativitas dan…](https://medium.com/@abbasdenny/perbedaan-diffused-thinking-dan-focused-thinking-menemukan-keseimbangan-kreativitas-dan-142f6ffcd590?source=rss-dae29be4bcaa------2)
 <!-- BLOG-POST-LIST:END -->
