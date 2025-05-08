@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denny Zain</h1>
-<h3 align="center">A passionate software engineer and an open sourcer</h3>
+<h3 align="center">A passionate software engineer and open source enthusiast</h3>
 
 - 🔭 I’m currently working on **something cool**
 
